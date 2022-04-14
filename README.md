@@ -5,7 +5,7 @@ _**Project**_
 
 Projet Educative
 
-[PUBLISED](zazeli.github.io/3-errorsmile/)
+[PUBLISED](https://zazeli.github.io/smile-if-Err)
 
 Design: _Errorsmile_
 
